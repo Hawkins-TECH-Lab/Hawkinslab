@@ -1,3 +1,3 @@
 # Hawkinslab
 
-Github Pages: https://hawkins-TECH-lab.github.io/home/
+Github Pages: https://hawkins-TECH-lab.github.io/
